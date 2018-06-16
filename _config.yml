@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Personal Blog - Ryan's Lair
+      title: Ryan's Lair
 
 description: Stylish Jekyll Theme
 author:
