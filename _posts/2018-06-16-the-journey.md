@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Journey
-categories: [general,]
-tags: [demo, dbyll, dbtek, setup]
+categories: [general]
+tags: [journey, life]
 fullview: true
 comments: true
 ---
